@@ -1,0 +1,29 @@
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: "Calibri";
+  font-size: 10px;
+  background-color: #e0e0d1;
+}
+
+.price {
+  color: grey;
+  font-size: 25px;
+}
+
+.card button {
+  padding: 10px;
+  color: white;
+  background-color: #00b33c;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 20px;
+}
+
+.card button:hover {
+  background-color: #292728;
+}
+
